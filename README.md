@@ -1,16 +1,13 @@
 # Product_analysis
 Здесь представлены проекты, связанные с продуктовой аналитикой.
 
-# Small_ml
+## Small_ml
 Папка с небольшими ml проектами.
 
-# AB_tests
+## AB_tests
 Папка с проектами, посвящёнными анализу результатов AB тестов.
 
-<h3><a href="https://github.com/KristinaBataeva/Product_analysis/blob/main/game_product_AB.ipynb">game_product_AB</a></h3>
-Эта работа включает в себя расчёт retention с помощью двух немного разных функций, оценку результатов A/B тестирования с помощью бустртап и хи-квадрат, выбор метрик для оценки результатов последнего прошедшего тематического события в игре.
 
-  ---
 <h3><a href="https://github.com/KristinaBataeva/Product_analysis/blob/main/EDA_mobile.ipynb">EDA_mobile</a></h3>
 Тестовое, выполненное для одной из компаний. Необходимо проанализировать использование фильтров пользователями на страницах городов. По сути это небольшое EDA, для проверки одного из пунктов использовался t-test.
 
@@ -21,7 +18,3 @@
   ---
 <h3><a href="https://github.com/KristinaBataeva/Product_analysis/blob/main/RFM.ipynb">RFM</a></h3>
 Проведение RFM сегментации и ответ на ряд вопросов, связанных с этими сегментами.
-
-  ---
-<h3><a href="https://github.com/KristinaBataeva/Product_analysis/blob/main/AA_analysis.ipynb">AA_analysis</a></h3>
-Небольшой AA-тест(симуляция p_value для t-test) с выявлением проблемы сплита и перепроверкой сплита без проблемной части.
